@@ -16,7 +16,6 @@ V6. You can save a lot of money by comparing prices
 To identify the groups, I apply Wards Agglomerative Hierarchical Clustering with dendograms to identify the number of clusters in the dataset.
  
 ![image](https://user-images.githubusercontent.com/113878059/225526985-37e49af6-ca47-488d-a5e1-3c5eb32f2983.png)
-
 ## Interpreting clusters
 
 I interpret the resulting clusters to find actionable patterns or descriptions in the data so I can market to each of the various groups using distinct and effective messaging.
@@ -46,8 +45,5 @@ The respondents in Group 1 scored high in statements relating to shopping for le
 
 The respondents in group 2 scored high in negative statements about shopping. We interpret this result by stating that the members of this segment shop for functional rather than leisurely reasons and see otherwise see it as a waste of time and money. I call these skeptics the “functional shopper” segment.
 
-The third group scored high in price-related statements, thus I call them “price-conscious shoppers.” This segment contains people who have a particular interest in saving money while shopping and actively seek out bargains and deals. Because Acme Shopping is deeply committed to attracting shoppers to large shopping malls, it would be hard to target Group 2 considering that it would take time and effort to convert people that do not enjoy shopping into potential buyers. 
-
-![image](https://user-images.githubusercontent.com/113878059/225528371-eacf94c2-4294-46a0-8fec-406009c3a012.png)
-
+The third group scored high in price-related statements, thus I call them “price-conscious shoppers.” This segment contains people who have a particular interest in saving money while shopping and actively seek out bargains and deals. Because Acme Shopping is deeply committed to attracting shoppers to large shopping malls, it would be hard to target Group 2 considering that it would take time and effort to convert people that do not enjoy shopping into potential buyers.
 
