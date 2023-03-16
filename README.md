@@ -15,7 +15,8 @@ V6. You can save a lot of money by comparing prices
 
 To identify the groups, I apply Wards Agglomerative Hierarchical Clustering with dendograms to identify the number of clusters in the dataset.
  
-![image](https://user-images.githubusercontent.com/113878059/225526985-37e49af6-ca47-488d-a5e1-3c5eb32f2983.png)
+<img width="349" alt="image" src="https://user-images.githubusercontent.com/113878059/225531674-28337b9f-9697-4dfe-be14-0b599c5cb6bb.png">
+
 ## Interpreting clusters
 
 I interpret the resulting clusters to find actionable patterns or descriptions in the data so I can market to each of the various groups using distinct and effective messaging.
