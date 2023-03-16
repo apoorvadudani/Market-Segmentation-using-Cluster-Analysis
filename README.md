@@ -2,7 +2,7 @@
 
 ## Background
 
-Acme Shopping is a large shopping mall that incorporates a balanced tenancy of different types of stores along with eating areas. To understand customers better, a survey has been conducted among 40 random shoppers to study beliefs on shopping. These beliefs are tested by asking shoppers the six questions listed below. Shoppers then answer using a 7-point Likert scale, from 1 (strongly disagree) to 7 (strongly agree). My goal is to group the shoppers at Acme Shopping into different segments using Ward’s method. I also collect income and number of visits. The questions are listed below:
+Acme Shopping is a large shopping mall that incorporates a balanced tenancy of different types of stores along with eating areas. To understand customers better, a survey has been conducted among 40 shoppers to study beliefs on shopping. The sample is sizable (greater than 30), so random sampling is used to ensure that every individual in the target market has an equal chance of being selected. These beliefs are tested by asking shoppers the six questions listed below. Shoppers then answer using a 7-point Likert scale, from 1 (strongly disagree) to 7 (strongly agree). Income and number of visits are also collected. The questions are listed below:
  
 - V1. Shopping is fun
 - V2. Shopping is bad for your budget
@@ -11,9 +11,12 @@ Acme Shopping is a large shopping mall that incorporates a balanced tenancy of d
 - V5. I don't care about shopping
 - V6. You can save a lot of money by comparing prices
 
-## Data analysis model selection
+## Segmentation technique and data analysis model selection
 
-To identify the groups, I apply post-hoc segmentation techniques, particularly Wards Agglomerative Hierarchical Clustering with dendograms, to identify the number of clusters in the dataset.
+### My goal is to group the shoppers at Acme Shopping into different segments using the following segmentation techniques:
+
+- post-hoc segmentation technique: this is used because there is limited knowledge about the type and quantity of segments in the market for shopping malls, hence primary research and data analysis is conducted before the markets are segmented into customer groups.
+- descriptive segmentation technique: this is used because the objective of the data analysis is to describe similarities and differences between different customer groups to market more effectively to them, and to identify these groups in the dataset, I apply Ward's Agglomerative Hierarchical Clustering with dendograms using the *agglomerative* and *hierarchical* packages in R.
  
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/113878059/225531674-28337b9f-9697-4dfe-be14-0b599c5cb6bb.png">
 
