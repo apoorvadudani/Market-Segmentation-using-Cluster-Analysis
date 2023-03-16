@@ -34,7 +34,7 @@ __Cluster 3__:
 
 __Table with mean scores of each group__:
 
-![image](https://user-images.githubusercontent.com/113878059/225527799-e3df2563-0981-44ab-9821-5e6770556eee.png)
+<img width="334" alt="image" src="https://user-images.githubusercontent.com/113878059/225529458-06846a4f-1401-40fb-a245-42f780543902.png">
 
 From the above data, I have identified each cluster to be the following segment:
 1.	Cluster 1 - “Leisure shopper” segment: sees shopping as an experience and pastime
