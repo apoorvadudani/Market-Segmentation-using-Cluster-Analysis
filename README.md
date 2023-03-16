@@ -11,9 +11,9 @@ Acme Shopping is a large shopping mall that incorporates a balanced tenancy of d
 - V5. I don't care about shopping
 - V6. You can save a lot of money by comparing prices
 
-## Data analysis method
+## Data analysis model selection
 
-To identify the groups, I apply Wards Agglomerative Hierarchical Clustering with dendograms to identify the number of clusters in the dataset.
+To identify the groups, I apply post-hoc segmentation techniques, particularly Wards Agglomerative Hierarchical Clustering with dendograms, to identify the number of clusters in the dataset.
  
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/113878059/225531674-28337b9f-9697-4dfe-be14-0b599c5cb6bb.png">
 
