@@ -48,3 +48,9 @@ The respondents in group 2 scored high in negative statements about shopping. We
 
 The third group scored high in price-related statements, thus I call them “price-conscious shoppers.” This segment contains people who have a particular interest in saving money while shopping and actively seek out bargains and deals. Because Acme Shopping is deeply committed to attracting shoppers to large shopping malls, it would be hard to target Group 2 considering that it would take time and effort to convert people that do not enjoy shopping into potential buyers.
 
+## References
+
+Dataset obtained from: http://www.stephansorger.com/
+
+Kaushal, Shailesh & Prasad, Ram Komal. (2022). Segmentation of Shopping Mall Shoppers: A Cluster Analysis Approach. https://www.researchgate.net/publication/361440863_SEGMENTATION_OF_SHOPPING_MALL_SHOPPERS_A_CLUSTER_ANALYSIS_APPROACH
+
