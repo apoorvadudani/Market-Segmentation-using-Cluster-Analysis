@@ -2,14 +2,14 @@
 
 ## Background
 
-Acme Shopping is a large shopping mall that incorporates a balanced tenancy of different types of stores along with eating areas. To understand customers better, I conduct a survey to study beliefs on shopping. I test those beliefs by asking shoppers the six questions listed below. Shoppers then answer using a 7-point Likert scale, from 1 (strongly disagree) to 7 (strongly agree). My goal is to group the shoppers at Acme Shopping into different segments using Ward’s method. I also collect income and number of visits. The questions are listed below:
+Acme Shopping is a large shopping mall that incorporates a balanced tenancy of different types of stores along with eating areas. To understand customers better, a survey has been conducted among 40 random shoppers to study beliefs on shopping. These beliefs are tested by asking shoppers the six questions listed below. Shoppers then answer using a 7-point Likert scale, from 1 (strongly disagree) to 7 (strongly agree). My goal is to group the shoppers at Acme Shopping into different segments using Ward’s method. I also collect income and number of visits. The questions are listed below:
  
-V1. Shopping is fun
-V2. Shopping is bad for your budget
-V3. I combine shopping with eating out
-V4. I try to get the best buys while shopping
-V5. I don't care about shopping
-V6. You can save a lot of money by comparing prices
+- V1. Shopping is fun
+- V2. Shopping is bad for your budget
+- V3. I combine shopping with eating out
+- V4. I try to get the best buys while shopping
+- V5. I don't care about shopping
+- V6. You can save a lot of money by comparing prices
 
 ## Data analysis method
 
