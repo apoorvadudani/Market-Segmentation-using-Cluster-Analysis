@@ -47,9 +47,17 @@ From the above data, I have identified each cluster to be the following segment:
 
 The respondents in Group 1 scored high in statements relating to shopping for leisure. I interpret this observation by stating the members of this group go shopping primarily for the fun, enjoyable experience, and as a pastime. I thus call them the “leisure shopper” segment. 
 
-The respondents in group 2 scored high in negative statements about shopping. We interpret this result by stating that the members of this segment shop for functional rather than leisurely reasons and see otherwise see it as a waste of time and money. I call these skeptics the “functional shopper” segment.
+The respondents in group 2 scored high in negative statements about shopping. I interpret this result by stating that the members of this segment shop for functional rather than leisurely reasons and see otherwise see it as a waste of time and money. I call these skeptics the “functional shopper” segment.
 
 The third group scored high in price-related statements, thus I call them “price-conscious shoppers.” This segment contains people who have a particular interest in saving money while shopping and actively seek out bargains and deals. Because Acme Shopping is deeply committed to attracting shoppers to large shopping malls, it would be hard to target Group 2 considering that it would take time and effort to convert people that do not enjoy shopping into potential buyers.
+
+## Secondary research findings
+
+According to a Kaushal & Prasad (2022), the shopping mall market can be segmented into “price conscious,” influenced by advertisements in their purchase decision alongside saving money, and “recreation conscious,” who “enjoy and pass maximum time at shopping malls,” which is similar to the “leisure shopper segment” I proposed. Hence, the research appears to agree well with my analysis.
+
+## Executive summary and recommendation 
+
+Acme Shopping should target promotional advertisements to Group 3 and attractive, trendy, and quality products to Group 1. Group 2 is a tougher segment to target because it would mean having to convert uninterested customers who may have no initial desire to purchase products into actual buyers. However, this could be achieved with incentives such as easy returns, free online shopping delivery, and attractive discounts.
 
 ## References
 
