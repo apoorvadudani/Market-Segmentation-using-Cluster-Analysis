@@ -53,7 +53,7 @@ The third group scored high in price-related statements, thus I call them “pri
 
 ## Secondary research findings
 
-According to a Kaushal & Prasad (2022), the shopping mall market can be segmented into “price conscious,” influenced by advertisements in their purchase decision alongside saving money, and “recreation conscious,” who “enjoy and pass maximum time at shopping malls,” which is similar to the “leisure shopper segment” I proposed. Hence, the research appears to agree well with my analysis.
+According to Kaushal & Prasad (2022), the shopping mall market can be segmented into “price conscious,” influenced by advertisements in their purchase decision alongside saving money, and “recreation conscious,” who “enjoy and pass maximum time at shopping malls,” which is similar to the “leisure shopper segment” I proposed. Hence, the research appears to agree well with my analysis.
 
 ## Executive summary and recommendation 
 
