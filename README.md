@@ -1,4 +1,4 @@
-# Market-Segmentation-using-R
+# Market-Segmentation-using-Cluster-Analysis
 
 ## Background
 
