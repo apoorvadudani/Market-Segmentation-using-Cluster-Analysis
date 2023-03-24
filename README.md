@@ -11,12 +11,21 @@ Acme Shopping is a large shopping mall that incorporates a balanced tenancy of d
 - V5. I don't care about shopping
 - V6. You can save a lot of money by comparing prices
 
+_Note: you can find the results of the survey in the "acmeshopping_dataset.csv" dataset in this repository._
+
 ## Segmentation technique and data analysis model selection
 
 ### My goal is to group the shoppers at Acme Shopping into different segments using the following segmentation techniques:
 
-- post-hoc segmentation technique: this is used because there is limited knowledge about the type and quantity of segments in the market for shopping malls, hence primary research and data analysis is conducted before the markets are segmented into customer groups.
-- descriptive segmentation technique: this is used because the objective of the data analysis is to describe similarities and differences between different customer groups to market more effectively to them, and to identify these groups in the dataset, I apply Ward's Agglomerative Hierarchical Clustering with dendograms using the *agglomerative* and *hierarchical* packages in R.
+- post-hoc segmentation technique: this is used when there is limited knowledge about the type and quantity of segments in the market for shopping malls, hence primary research and data analysis is conducted before the markets are segmented into customer groups; a post-hoc technique like Ward's Agglomerative Hierarchical Clustering is useful in this case.
+- descriptive segmentation technique: this is used because the objective of the data analysis is to describe similarities and differences between different customer groups to market more effectively to them, and to identify these groups in the survey dataset, I apply Ward's Agglomerative Hierarchical Clustering with dendograms 
+
+
+Now that I have identified the reasons for choosing Ward's method for agglomerative hierarchical clustering, I use the *agglomerative* and *hierarchical* packages in R to begin the annalysis. 
+
+_Note: you can find the code in the "assignment 2.R" script in this repository._
+
+
  
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/113878059/225531674-28337b9f-9697-4dfe-be14-0b599c5cb6bb.png">
 
