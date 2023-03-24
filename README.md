@@ -18,14 +18,17 @@ _Note: you can find the results of the survey in the "acmeshopping_dataset.csv" 
 ### My goal is to group the shoppers at Acme Shopping into different segments using the following segmentation techniques:
 
 - post-hoc segmentation technique: this is used when there is limited knowledge about the type and quantity of segments in the market for shopping malls, hence primary research and data analysis is conducted before the markets are segmented into customer groups; a post-hoc technique like Ward's Agglomerative Hierarchical Clustering is useful in this case.
-- descriptive segmentation technique: this is used because the objective of the data analysis is to describe similarities and differences between different customer groups to market more effectively to them, and to identify these groups in the survey dataset, I apply Ward's Agglomerative Hierarchical Clustering with dendograms 
+- descriptive segmentation technique: this is used because the objective of the data analysis is to describe similarities and differences between different customer groups to market more effectively to them, and to identify these groups in the survey dataset, I apply Ward's Agglomerative Hierarchical Clustering. 
 
+Techniques based on measuring distances, such as Ward's method, are also well-suited to the aforementioned 7-point Likert scaled data.
 
 Now that I have identified the reasons for choosing Ward's method for agglomerative hierarchical clustering, I use the *agglomerative* and *hierarchical* packages in R to begin the annalysis. 
 
 _Note: you can find the code in the "assignment 2.R" script in this repository._
 
+## Findings
 
+The result of applying Ward's Agglomerative Hierarchical Clustering results in a hierrarchical structure called a dendogram, which reflects "clusters" of potential market segments based on customer preferences from the results of the survey:
  
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/113878059/225531674-28337b9f-9697-4dfe-be14-0b599c5cb6bb.png">
 
@@ -49,24 +52,33 @@ __Table with mean scores of each group__:
 
 <img width="334" alt="image" src="https://user-images.githubusercontent.com/113878059/225529458-06846a4f-1401-40fb-a245-42f780543902.png">
 
-From the above data, I have identified each cluster to be the following segment:
-1.	Cluster 1 - “Leisure shopper” segment: sees shopping as an experience and pastime
-2.	Cluster 2 - “Functional shopper” segment: does not enjoy shopping and sees it as functional rather than enjoyable
-3.	Cluster 3 - “Price-conscious shopper” segment: looks for bargains and deals while shopping 
+From the above data, I have identified each cluster to be the following segments:
 
-The respondents in Group 1 scored high in statements relating to shopping for leisure. I interpret this observation by stating the members of this group go shopping primarily for the fun, enjoyable experience, and as a pastime. I thus call them the “leisure shopper” segment. 
+1.	Cluster 1 - “Leisure shopper” segment
 
-The respondents in group 2 scored high in negative statements about shopping. I interpret this result by stating that the members of this segment shop for functional rather than leisurely reasons and see otherwise see it as a waste of time and money. I call these skeptics the “functional shopper” segment.
+![image](https://user-images.githubusercontent.com/113878059/227605926-cba17879-bfba-44e1-b1b4-98c70db3469e.png)
 
-The third group scored high in price-related statements, thus I call them “price-conscious shoppers.” This segment contains people who have a particular interest in saving money while shopping and actively seek out bargains and deals. Because Acme Shopping is deeply committed to attracting shoppers to large shopping malls, it would be hard to target Group 2 considering that it would take time and effort to convert people that do not enjoy shopping into potential buyers.
+The respondents in this group scored high in statements relating to shopping for leisure. I interpret this observation by stating the members of this group go shopping primarily for the fun, enjoyable experience, and as a pastime. I thus call them the “leisure shopper” segment.
+
+2.	Cluster 2 - “Functional shopper” segment
+
+![image](https://user-images.githubusercontent.com/113878059/227605750-1d603566-3259-4fde-98e6-2b017ecaeee1.png)
+
+The respondents in Cluster 2 scored high in negative statements about shopping. I interpret this result by stating that the members of this segment shop for functional rather than leisurely reasons and do not particularly enjoy it. I group these skeptics into the the “functional shopper” segment.
+
+3.	Cluster 3 - “Price-conscious shopper” segment
+
+![image](https://user-images.githubusercontent.com/113878059/227605973-ccc2b6d3-457c-4cc5-8df4-a78118ad5f38.png)
+
+The third cluster scored high in price-related statements, thus I call them “price-conscious shoppers.” This segment contains people who have a particular interest in saving money while shopping and actively seek out bargains and deals. Because Acme Shopping is deeply committed to attracting shoppers to large shopping malls, it would be tough to target Cluster 2 considering that it would take time and effort to convert people that do not enjoy shopping into potential buyers.
 
 ## Secondary research findings
 
-According to Kaushal & Prasad (2022), the shopping mall market can be segmented into “price conscious,” influenced by advertisements in their purchase decision alongside saving money, and “recreation conscious,” who “enjoy and pass maximum time at shopping malls,” which is similar to the “leisure shopper segment” I proposed. Hence, the research appears to agree well with my analysis.
+According to Kaushal & Prasad (2022), the shopping mall market can be segmented into “price conscious,” influenced by advertisements in their purchase decision alongside saving money, and “recreation conscious,” who “enjoy and pass maximum time at shopping malls,” which is similar to the “leisure shopper segment” I proposed. Hence, existing literature appears to agree well with my analysis.
 
-## Executive summary and recommendation 
+## Executive summary and recommendation
 
-Acme Shopping should target promotional advertisements to Group 3 and attractive, trendy, and quality products to Group 1. Group 2 is a tougher segment to target because it would mean having to convert uninterested customers who may have no initial desire to purchase products into actual buyers. However, this could be achieved with incentives such as easy returns, free online shopping delivery, and attractive discounts.
+Acme Shopping should target promotional advertisements to Cluster 3 and attractive, trendy, and quality products to Cluster 1. Cluster 2 is a tougher segment to target because it would mean having to convert uninterested customers who may have no initial desire to purchase products into actual buyers. However, this could be achieved with incentives such as easy returns, free online shopping delivery, and attractive discounts.
 
 ## References
 
