@@ -15,7 +15,7 @@ _Note: you can find the results of the survey in the "acmeshopping_dataset.csv" 
 
 ## Segmentation technique and data analysis model selection
 
-### My goal is to group the shoppers at Acme Shopping into different segments using the following segmentation techniques:
+My goal is to group the shoppers at Acme Shopping into different segments using the following segmentation techniques:
 
 - post-hoc segmentation technique: this is used when there is limited knowledge about the type and quantity of segments in the market for shopping malls, hence primary research and data analysis is conducted before the markets are segmented into customer groups; a post-hoc technique like Ward's Agglomerative Hierarchical Clustering is useful in this case.
 - descriptive segmentation technique: this is used because the objective of the data analysis is to describe similarities and differences between different customer groups to market more effectively to them, and to identify these groups in the survey dataset, I apply Ward's Agglomerative Hierarchical Clustering. 
