@@ -2,6 +2,8 @@
 
 ## Background
 
+![image](https://user-images.githubusercontent.com/113878059/228693033-fa0a13e7-69c1-4ce9-a3dc-7bb306bac753.png)
+
 Acme Shopping is a large shopping mall that incorporates a balanced tenancy of different types of stores along with eating areas. To understand customers better, a survey has been conducted among 40 shoppers to study beliefs on shopping. The sample is sizable (greater than 30), so random sampling is used to ensure that every individual in the target market has an equal chance of being selected. These beliefs are tested by asking shoppers the six questions listed below. Shoppers then answer using a 7-point Likert scale, from 1 (strongly disagree) to 7 (strongly agree). Income and number of visits are also collected. The questions are listed below:
  
 - V1. Shopping is fun
